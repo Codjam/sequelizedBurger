@@ -1,0 +1,20 @@
+{
+  "name": "sequelizedburger",
+  "version": "1.0.0",
+  "description": "berger homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codjam/sequelizedBurger.git"
+  },
+  "author": "codjam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codjam/sequelizedBurger/issues"
+  },
+  "homepage": "https://github.com/Codjam/sequelizedBurger#readme"
+}
